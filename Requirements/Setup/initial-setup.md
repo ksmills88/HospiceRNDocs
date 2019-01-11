@@ -1,9 +1,5 @@
 # Setup using Expo and React Native
 
-
-
-
-
 ## Before you begin: 
 
 - You will need to have Node.js (v10 or newer) installed on your computer.
