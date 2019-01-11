@@ -49,4 +49,4 @@ More information is displayed in the terminal about running the app with live re
 
 > *Hint: In order to use a LAN connection(default) you must be on the same wifi network on your computer and devices. Otherwise, you will have to create a tunnel connection.*
 
-Once you are connected and open your project, you can see that expo has created an application for you with bottom tab navigation. Now you are ready to make it your own! As you make edits in your text editor and save, your app will automatically reload 
+Once you are connected and open your project, you can see that Expo has created an application for you with bottom tab navigation out of the box. Now you are ready to make it your own! As you make edits in your text editor and save, your app will automatically reload. 
