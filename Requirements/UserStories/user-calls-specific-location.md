@@ -2,4 +2,10 @@
 
 1. User Navigates to the Contact Us Page via the navigation menu (upper left hand corner).
 2. User clicks on phone number that corresponds to the office they need to reach.
+    
+    - Administrative Office
+    - Orange Team (Belleville, IL)
+    - Blue Team (Marion, IL)
+
+
 
