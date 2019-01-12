@@ -1,5 +1,7 @@
 # Starting to Code
 
+### 
+
 When you are initially setting up and getting ready to start coding,  you may feel inclined to jump in quickly to start playing with everything, especially if you are new to React Native. If it is a practice app, jumping in is perfectly fine; however, once you are getting ready to add content to a REAL application, make sure your wireframe is on point. 
 
 ## Set up your navigation FIRST
