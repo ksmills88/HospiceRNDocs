@@ -22,5 +22,8 @@ On Native applications, users have the option to make their overall device font 
 
 By setting the allowFontScaling prop to false, the text will not ever change, even if the user has their settings different than the 'defaults'.
 
-PROS:
-- 
+### Notes:
+- This will only work on Text Components
+- There is a way to set the whole project to 'false', but I chose to only set it to false where there were readability issues. After all, the person who has the font size set large did that for a reason. 
+- Can become tricky when using packages that are dependent on the Text Component, so be aware from the start.
+- Make the app look like you want first, and then start playing with the dynamic type after. Most people will use it with the defaults.
