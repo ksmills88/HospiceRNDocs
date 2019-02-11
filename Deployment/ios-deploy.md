@@ -1,0 +1,1 @@
+https://codeburst.io/how-to-deploy-a-create-react-native-app-to-the-appstore-229a8fa36fb1
