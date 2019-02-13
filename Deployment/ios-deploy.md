@@ -3,7 +3,7 @@ https://codeburst.io/how-to-deploy-a-create-react-native-app-to-the-appstore-229
 
 # iOS
 
-## Running a Build / Deploying to the App Store
+## Running a Build / Adding New Build to the App Store
 
 #### Steps:
 1. Run a build the app locally
