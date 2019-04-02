@@ -24,7 +24,8 @@ User will primarily navigate through the menu (either on the main home page or v
     - Contact Now button to reach the 24/7 support team
     
 - Upcoming Events
-    - List of upcoming events for HOSI - includes the Date/Time/Location when clicked. 
+    - List of upcoming events displayed - includes Name, Address, Date, & Time
+    - Register Now button directs the user to the website so they can register for an event from the website.
     
 - Donate
     - The Donate Button will redirect the User to the Donate page of the website
