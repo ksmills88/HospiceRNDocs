@@ -47,4 +47,4 @@ User will primarily navigate through the menu (either on the main home page or v
 
 ## Social
 
-User will find social links at the bottom of the navigation window in order to follow HOSI on Facebook, Twitter, Pinterest, and YouTube. 
+User will find social links at the bottom of the home page and navigation window in order to follow HOSI on Facebook, Twitter, Instagram, LinkedIn, Pinterest, and YouTube. 
